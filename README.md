@@ -1,5 +1,3 @@
-Certainly! Here's the entire README rewritten in markdown:
-
 ---
 
 # Caesar Cipher Encryption
